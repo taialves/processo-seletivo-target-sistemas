@@ -40,6 +40,7 @@ namespace ProjetoSeletivoTarget
                     break;
             }
 
+            Console.ReadKey();
         }
 
         public static void Questao1()
